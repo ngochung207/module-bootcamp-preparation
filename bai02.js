@@ -2,7 +2,6 @@
 // và một số nguyên x. Hàm  trả về mảng ban đầu nếu không có số nguyên x trong mảng.
 // Nếu tìm thấy số nguyên x trả về mảng sau khi xóa các số nguyên x đó.
 let arr = [4,10,40,2,4]
-
 tryRemoveFromArray(arr)
 
 function tryRemoveFromArray(arr, x){

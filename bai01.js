@@ -1,6 +1,8 @@
 // Cho danh sách các điểm thi ở trong một mảng.
 // Hãy viết hàm findMax() với đầu vào là một mảng điểm và đầu ra là điểm số cao nhất được tìm thấy trong danh sách đó.
 let arr = [4,10,40,2];
+findMax(arr);
+
 function findMax(arr) {
     if (arr.length === 0) {
         return alert("array is empty")
@@ -15,4 +17,3 @@ function findMax(arr) {
     }
 }
 
-findMax(arr)

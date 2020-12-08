@@ -11,9 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf007cf8-a75f-4fc1-8c0d-e22fbfebb510" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bai02.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai03.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bai01.js" beforeDir="false" afterPath="$PROJECT_DIR$/bai01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai02.js" beforeDir="false" afterPath="$PROJECT_DIR$/bai02.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607393104498</updated>
-      <workItem from="1607393105758" duration="963000" />
+      <workItem from="1607393105758" duration="2306000" />
     </task>
     <servers />
   </component>
@@ -69,6 +70,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="426" y="113" key="#Inspections" timestamp="1607395190531">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="426" y="113" key="#Inspections/0.0.1600.870@0.0.1600.870" timestamp="1607395190531" />
     <state x="463" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1607393291469">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
